@@ -1,5 +1,7 @@
 # Food Ordering App
 
+![](https://github.com/Atul302001/Online_Delivery_app/blob/master/img/demo.png)
+
 This is a food ordering app that allows users to order food from their favorite restaurants.
 
 ## Features
